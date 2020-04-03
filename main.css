@@ -1,0 +1,22 @@
+body {
+  background : url("assets/freedom.jpg") no-repeat center center fixed;
+}
+
+h1 {
+  font-family: arial;
+  font-style: italic;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 50px;
+  line-height: 50px;
+  color: darkslategrey;
+  margin: auto;
+}
+
+h2 {
+  font-family: monospace;
+  margin-top : 80px;
+  color:darkblue;
+  text-align: center;
+  margin: auto
+}
